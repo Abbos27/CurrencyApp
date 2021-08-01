@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Currency App</string>
+    <string name="no_network_text">Serverga ulanish amalga oshmadi. \nInternetni yoqing va yangilab ko"'"ring</string>
+    <string name="btn_update_txt">Yangilash</string>
+    <string name="updated_date_text">Yangilangan vaqti:</string>
+    <string name="exchange_rates_text">Valyutalar kursi</string>
+    <string name="chosen_rates_text">Tanlangan valyutalar</string>
+    <string name="settings_text">Sozlamalar</string>
+    <string name="choose_language_text">Tilni tanlang:</string>
+    <string name="lang_text">o"`"zb</string>
+</resources>

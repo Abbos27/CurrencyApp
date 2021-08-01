@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_500">#25303F</color>
+    <color name="purple_700">#161E27</color>
+    <color name="white">#FFFFFF</color>
+
+
+    <color name="app_title_color">#FAFAFA</color>
+    <color name="app_bg_color">#1A222C</color>
+    <color name="app_top_color">#25303F</color>
+    <color name="tabLayout_text_true_color">#64ADFF</color>
+    <color name="tabLayout_text_false_color">#8B97A2</color>
+    <color name="tabLayout_indicator_color">#64ADFF</color>
+    <color name="item_card_color">#25303F</color>
+    <color name="card_img_bg_color">#25303F</color>
+    <color name="card_title_color">#C7C7C7</color>
+    <color name="card_rate_color">#FFFFFF</color>
+    <color name="card_date_color">#DADADA</color>
+    <color name="shimmer_color">#191E24</color>
+    <color name="star_on_color">#F5D128</color>
+    <color name="star_off_color">#4D6585</color>
+    <color name="converter_line_color">#374251</color>
+    <color name="check_mark_color">#03DAC5</color>
+</resources>
