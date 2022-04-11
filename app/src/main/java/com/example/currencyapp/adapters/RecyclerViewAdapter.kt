@@ -60,8 +60,8 @@ class RecyclerViewAdapter :
             binding.chosenCurrency.visibility = View.VISIBLE
 
             when {
-                pref.chosenLang.equals("ru") -> setTitle(currency?.ccyNmRU)
                 pref.chosenLang.equals("uz") -> setTitle(currency?.ccyNmUZ)
+                pref.chosenLang.equals("ru") -> setTitle(currency?.ccyNmRU)
                 else -> setTitle(currency?.ccyNmEN)
             }
 
