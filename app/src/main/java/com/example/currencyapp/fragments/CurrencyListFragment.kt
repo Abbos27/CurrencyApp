@@ -1,18 +1,18 @@
-package com.example.currencyappdb.fragments
+package com.example.currencyapp.fragments
 
 import android.os.Bundle
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
 import androidx.fragment.app.Fragment
-import com.example.currencyappdb.R
-import com.example.currencyappdb.adapters.RecyclerViewAdapter
-import com.example.currencyappdb.databinding.FragmentCurrencyListBinding
-import com.example.currencyappdb.models.Currency
-import com.example.currencyappdb.models.Flag
-import com.example.currencyappdb.models.TimeModel
-import com.example.currencyappdb.networking.NetworkHelper
-import com.example.currencyappdb.networking.RetrofitBuilder
+import com.example.currencyapp.R
+import com.example.currencyapp.adapters.RecyclerViewAdapter
+import com.example.currencyapp.databinding.FragmentCurrencyListBinding
+import com.example.currencyapp.models.Currency
+import com.example.currencyapp.models.Flag
+import com.example.currencyapp.models.TimeModel
+import com.example.currencyapp.networking.NetworkHelper
+import com.example.currencyapp.networking.RetrofitBuilder
 import com.mynameismidori.currencypicker.ExtendedCurrency
 import retrofit2.Call
 import retrofit2.Callback

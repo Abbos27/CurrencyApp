@@ -1,7 +1,7 @@
-package com.example.currencyappdb.networking
+package com.example.currencyapp.networking
 
-import com.example.currencyappdb.models.Currency
-import com.example.currencyappdb.models.TimeModel
+import com.example.currencyapp.models.Currency
+import com.example.currencyapp.models.TimeModel
 import retrofit2.Call
 import retrofit2.http.GET
 

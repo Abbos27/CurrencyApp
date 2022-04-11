@@ -1,4 +1,4 @@
-package com.example.currencyappdb.models
+package com.example.currencyapp.models
 
 data class Language(
     var image: Int,

@@ -1,4 +1,4 @@
-package com.example.currencyappdb.adapters
+package com.example.currencyapp.adapters
 
 import android.app.AlertDialog
 import android.content.Context
@@ -16,12 +16,12 @@ import android.view.animation.RotateAnimation
 import androidx.recyclerview.widget.AsyncListDiffer
 import androidx.recyclerview.widget.DiffUtil
 import androidx.recyclerview.widget.RecyclerView
-import com.example.currencyappdb.R
-import com.example.currencyappdb.databinding.ConverterDialogBinding
-import com.example.currencyappdb.databinding.ItemCurrencyBinding
-import com.example.currencyappdb.db.CurrencyDatabase
-import com.example.currencyappdb.db.MySharedPreferences
-import com.example.currencyappdb.models.Currency
+import com.example.currencyapp.R
+import com.example.currencyapp.databinding.ConverterDialogBinding
+import com.example.currencyapp.databinding.ItemCurrencyBinding
+import com.example.currencyapp.db.CurrencyDatabase
+import com.example.currencyapp.db.MySharedPreferences
+import com.example.currencyapp.models.Currency
 import com.like.LikeButton
 import com.like.OnLikeListener
 import java.util.*

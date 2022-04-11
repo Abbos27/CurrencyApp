@@ -1,4 +1,4 @@
-package com.example.currencyappdb
+package com.example.currencyapp
 
 import org.junit.Test
 

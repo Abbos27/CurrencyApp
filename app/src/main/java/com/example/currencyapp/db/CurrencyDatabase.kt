@@ -1,10 +1,10 @@
-package com.example.currencyappdb.db
+package com.example.currencyapp.db
 
 import android.content.Context
 import androidx.room.Database
 import androidx.room.Room
 import androidx.room.RoomDatabase
-import com.example.currencyappdb.models.Currency
+import com.example.currencyapp.models.Currency
 
 @Database(entities = [Currency::class], version = 1, exportSchema = false)
 abstract class CurrencyDatabase : RoomDatabase() {

@@ -1,4 +1,4 @@
-package com.example.currencyappdb.activities
+package com.example.currencyapp.activities
 
 import android.content.res.Configuration
 import android.graphics.Color
@@ -12,16 +12,16 @@ import androidx.appcompat.app.AppCompatActivity
 import androidx.appcompat.app.AppCompatDelegate
 import androidx.appcompat.widget.Toolbar
 import androidx.cardview.widget.CardView
-import com.example.currencyappdb.R
-import com.example.currencyappdb.adapters.OnItemClick
-import com.example.currencyappdb.adapters.RecyclerViewLanguagesAdapter
-import com.example.currencyappdb.adapters.ViewPagerAdapter
-import com.example.currencyappdb.databinding.ActivityMainBinding
-import com.example.currencyappdb.databinding.LangListDialogBinding
-import com.example.currencyappdb.db.MySharedPreferences
-import com.example.currencyappdb.fragments.CurrencyListFragment
-import com.example.currencyappdb.fragments.LikedListFragment
-import com.example.currencyappdb.models.Language
+import com.example.currencyapp.R
+import com.example.currencyapp.adapters.OnItemClick
+import com.example.currencyapp.adapters.RecyclerViewLanguagesAdapter
+import com.example.currencyapp.adapters.ViewPagerAdapter
+import com.example.currencyapp.databinding.ActivityMainBinding
+import com.example.currencyapp.databinding.LangListDialogBinding
+import com.example.currencyapp.db.MySharedPreferences
+import com.example.currencyapp.fragments.CurrencyListFragment
+import com.example.currencyapp.fragments.LikedListFragment
+import com.example.currencyapp.models.Language
 import java.util.*
 
 

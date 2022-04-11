@@ -1,13 +1,11 @@
-package com.example.currencyappdb.adapters
+package com.example.currencyapp.adapters
 
 import android.view.LayoutInflater
-import android.view.View
 import android.view.ViewGroup
-import androidx.core.app.ActivityCompat.recreate
 import androidx.recyclerview.widget.RecyclerView
-import com.example.currencyappdb.databinding.ItemLanguageBinding
-import com.example.currencyappdb.db.MySharedPreferences
-import com.example.currencyappdb.models.Language
+import com.example.currencyapp.databinding.ItemLanguageBinding
+import com.example.currencyapp.db.MySharedPreferences
+import com.example.currencyapp.models.Language
 
 class RecyclerViewLanguagesAdapter(private val langList: ArrayList<Language>, val listener: OnItemClick) :
     RecyclerView.Adapter<RecyclerViewLanguagesAdapter.ViewHolder>() {

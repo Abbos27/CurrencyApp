@@ -1,7 +1,7 @@
-package com.example.currencyappdb.db
+package com.example.currencyapp.db
 
 import androidx.room.*
-import com.example.currencyappdb.models.Currency
+import com.example.currencyapp.models.Currency
 
 @Dao
 interface DatabaseDAO {

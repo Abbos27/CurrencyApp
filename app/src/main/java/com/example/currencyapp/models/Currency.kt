@@ -1,8 +1,7 @@
-package com.example.currencyappdb.models
+package com.example.currencyapp.models
 
 
 import androidx.room.Entity
-import androidx.room.Index
 import androidx.room.PrimaryKey
 import com.google.gson.annotations.SerializedName
 

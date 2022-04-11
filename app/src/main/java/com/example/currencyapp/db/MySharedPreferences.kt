@@ -1,11 +1,7 @@
-package com.example.currencyappdb.db
+package com.example.currencyapp.db
 
 import android.content.Context
 import android.content.SharedPreferences
-import com.example.currencyappdb.R
-import com.example.currencyappdb.models.Language
-import com.google.gson.Gson
-import com.google.gson.reflect.TypeToken
 
 class MySharedPreferences {
     private val NAME = "MyPref"

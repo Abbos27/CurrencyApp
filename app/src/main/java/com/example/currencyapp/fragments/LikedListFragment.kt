@@ -1,13 +1,13 @@
-package com.example.currencyappdb.fragments
+package com.example.currencyapp.fragments
 
 import android.os.Bundle
 import androidx.fragment.app.Fragment
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
-import com.example.currencyappdb.adapters.RecyclerViewAdapter
-import com.example.currencyappdb.databinding.FragmentLikedListBinding
-import com.example.currencyappdb.db.CurrencyDatabase
+import com.example.currencyapp.adapters.RecyclerViewAdapter
+import com.example.currencyapp.databinding.FragmentLikedListBinding
+import com.example.currencyapp.db.CurrencyDatabase
 
 
 class LikedListFragment : Fragment() {

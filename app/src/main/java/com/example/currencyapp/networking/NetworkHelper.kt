@@ -1,4 +1,4 @@
-package com.example.currencyappdb.networking
+package com.example.currencyapp.networking
 
 import android.content.Context
 import android.net.ConnectivityManager

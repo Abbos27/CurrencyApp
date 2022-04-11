@@ -1,4 +1,4 @@
-package com.example.currencyappdb.adapters
+package com.example.currencyapp.adapters
 
 import androidx.fragment.app.Fragment
 import androidx.fragment.app.FragmentManager

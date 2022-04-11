@@ -1,4 +1,4 @@
-package com.example.currencyappdb.networking
+package com.example.currencyapp.networking
 
 import okhttp3.OkHttpClient
 import okhttp3.logging.HttpLoggingInterceptor
